@@ -11,9 +11,13 @@ It helps businesses track stock availability, identify high-performing regions, 
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – For building interactive dashboards and visuals
+
 🔄 Power Query – For data cleaning and transformation
+
 🧠 DAX – For calculated metrics like sales, inventory, and KPIs
+
 🔗 Data Modeling – To connect multiple datasets efficiently
+
 📁 Data Source – Structured Excel dataset containing sales, inventory, and regional data.
 
 
@@ -27,19 +31,22 @@ The dataset used in this project is sourced from a structured learning environme
 - Walkthrough of Key Visuals
 - Business Impact & Insights
 
-🔸 Business Problem
+🔸 Business Problem:
+
 Businesses often struggle to manage inventory efficiently while tracking sales across different regions and stores.
 Lack of real-time insights leads to stock shortages, overstocking, and poor decision-making.
 
 🔸 Goal of the Dashboard
 To build an interactive dashboard that:
+
 * Monitors total sales and inventory status
 * Tracks stock availability (In Stock / Out of Stock)
 * Analyzes regional and store-wise performance
 * Identifies sales trends over time
 * Helps optimize supply chain operations.
 
-🔸 Walkthrough of Key Visuals
+🔸 Walkthrough of Key Visuals:
+
 KPI Cards (Top Section)
 Displays overall sales, inventory value, and available stock
 Sales by Product Type (Donut Chart)
@@ -61,7 +68,8 @@ Displays region-wise total sales in a compact horizontal scroll view for quick c
 Filters / Slicers
 Allows filtering by year, region, and payment method.
 
-🔸 Business Impact & Insights
+🔸 Business Impact & Insights:
+
 Helps identify high-performing regions and stores
 Improves inventory planning and stock management
 Enables tracking of sales trends and seasonal demand
