@@ -9,6 +9,7 @@ It helps businesses track stock availability, identify high-performing regions, 
 
 🛠 Tech Stack
 The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – For building interactive dashboards and visuals
 🔄 Power Query – For data cleaning and transformation
 🧠 DAX – For calculated metrics like sales, inventory, and KPIs
