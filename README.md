@@ -1,7 +1,7 @@
 # Supply-Chain-Management-Dashboard
 A comprehensive and interactive dashboard designed to monitor and analyze supply chain performance, focusing on sales, inventory, regional distribution, and operational efficiency.
 
-## 📌 Short Description / Purpose
+## 📌 Short Description
 
 The Supply Chain Management Dashboard is built to provide clear visibility into key supply chain operations including sales trends, inventory levels, and regional performance.
 It helps businesses track stock availability, identify high-performing regions, and optimize inventory management. The dashboard enables faster and smarter decision-making by transforming raw data into meaningful insights.
@@ -45,33 +45,43 @@ To build an interactive dashboard that
 ###🔸 Walkthrough of Key Visuals:
 
 - **KPI Cards (Top Section)
+  
 Displays overall sales, inventory value, and available stock
 
 - **Sales by Product Type (Donut Chart)
+  
 Shows contribution of different product categories
 
 - **YOY Growth % (Bar Chart)
+  
 Highlights yearly growth trends and performance drops
 
 - **Sales by Region (Bar Chart)
+  
 Compares sales across regions like West, South, East, etc.
 
 - **Monthly Sales Trend (Line Chart)
+  
 Tracks sales fluctuations throughout the year
 
 - **Top 5 States (Area Chart)
+  
 Shows highest performing states based on sales
 
 - **Top Stores (Bar Chart)
+  
 Identifies best performing stores
 
 - **YTD / QTD / MTD Analysis
+  
 Provides time-based performance insights
 
 - **Total Sales by Store Region (Scrollable Bar / Strip)
+  
 Displays region-wise total sales in a compact horizontal scroll view for quick comparison
 
 - **Filters / Slicers
+  
 Allows filtering by year, region, and payment method.
 
 ---
