@@ -46,47 +46,47 @@ To build an interactive dashboard that
 
 - **KPI Cards (Top Section)
   
-Displays overall sales, inventory value, and available stock
+ Displays overall sales, inventory value, and available stock
 
 - **Sales by Product Type (Donut Chart)
   
-Shows contribution of different product categories
+ Shows contribution of different product categories
 
 - **YOY Growth % (Bar Chart)
   
-Highlights yearly growth trends and performance drops
+ Highlights yearly growth trends and performance drops
 
 - **Sales by Region (Bar Chart)
   
-Compares sales across regions like West, South, East, etc.
+ Compares sales across regions like West, South, East, etc.
 
 - **Monthly Sales Trend (Line Chart)
   
-Tracks sales fluctuations throughout the year
+ Tracks sales fluctuations throughout the year
 
 - **Top 5 States (Area Chart)
   
-Shows highest performing states based on sales
+ Shows highest performing states based on sales
 
 - **Top Stores (Bar Chart)
   
-Identifies best performing stores
+ Identifies best performing stores
 
 - **YTD / QTD / MTD Analysis
   
-Provides time-based performance insights
+ Provides time-based performance insights
 
 - **Total Sales by Store Region (Scrollable Bar / Strip)
   
-Displays region-wise total sales in a compact horizontal scroll view for quick comparison
+ Displays region-wise total sales in a compact horizontal scroll view for quick comparison
 
 - **Filters / Slicers
   
-Allows filtering by year, region, and payment method.
+ Allows filtering by year, region, and payment method.
 
 ---
 
-###🔸 Business Impact & Insights:
+###🔸 Business Insights:
 
 - Helps identify high-performing regions and stores
 - Improves inventory planning and stock management
