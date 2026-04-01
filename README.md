@@ -50,7 +50,7 @@ To build an interactive dashboard that
 
 - **Sales by Product Type (Donut Chart)
   
-    Shows contribution of different product categories
+     Shows contribution of different product categories
 
 - **YOY Growth % (Bar Chart)
   
