@@ -45,8 +45,7 @@ To build an interactive dashboard that
 ###🔸 Walkthrough of Key Visuals:
 
 - **KPI Cards (Top Section)
-  
-      Displays overall sales, inventory value, and available stock
+  Displays overall sales, inventory value, and available stock
 
 - **Sales by Product Type (Donut Chart)
   
