@@ -92,7 +92,8 @@ The objective was to build an interactive analytical tool that:
 
 ---
 
-###🔸 Business Impact & Insights
+###🔸 Business Impact & Insights:
+
 • Inventory Optimization: Helps in balancing stock levels—reducing the cost of carrying overstock while preventing revenue loss from stockouts.
 
 • Strategic Regional Growth: Pinpoints high-growth regions and stores, allowing for better resource allocation and targeted logistics planning.
