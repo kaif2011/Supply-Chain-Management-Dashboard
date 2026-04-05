@@ -24,7 +24,8 @@ This project utilizes a comprehensive Supply Chain dataset encompassing Warehous
 - Walkthrough of Key Visuals
 - Business Impact
 
-###🔸The Business Problem
+###🔸The Business Problem:
+
 Supply Chain operations often suffer from inventory imbalances—where some warehouses are overstocked with slow-moving items, while others face critical stockouts of high-demand products. The core challenge for this project was to analyze logistical data to identify these supply-demand gaps and optimize the flow of goods to reduce carrying costs and improve fulfillment rates.
 
 ---
