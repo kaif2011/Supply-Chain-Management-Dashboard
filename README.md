@@ -1,24 +1,28 @@
 # Supply-Chain-Management-Dashboard
+
 An end-to-end operational dashboard focused on inventory optimization, regional demand forecasting, and streamlining supply chain logistics.
 
 ## 📌 Project Overview
-This project was developed to tackle complex logistics challenges by providing a 360-degree view of the supply chain lifecycle. The primary objective was to move beyond basic tracking and focus on Inventory Optimization—ensuring high-demand products are always in stock while reducing carrying costs for slow-moving items.
 
-By transforming raw logistics data into interactive visuals, I identified critical bottlenecks in regional distribution and provided actionable insights to improve fulfillment rates. This dashboard serves as a strategic tool for stakeholders to monitor Stock Availability, Sales Trends, and Supplier Reliability in real-time.
+This project was developed to tackle complex logistics challenges by providing a 360-degree view of the supply chain lifecycle. The primary objective was to move beyond basic tracking and focus on inventory optimization—ensuring high-demand products stay in stock while reducing carrying costs for slow-moving items.
+
+By transforming raw logistics data into interactive visuals, I identified critical bottlenecks in regional distribution and delivered actionable insights to improve fulfillment rates. This dashboard serves as a strategic tool for stakeholders to monitor stock availability, sales trends, and supplier reliability in real time.
+
+## 📂 Data Source
+
+This project utilizes a comprehensive supply chain dataset encompassing warehouse logistics, inventory stock levels, and regional demand. The data simulates a real-world operational environment, enabling deep-dive analysis into supply-demand gaps and supplier reliability metrics.
 
 ## 🛠 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 - 📊 Power BI Desktop – Used for end-to-end data storytelling and building interactive operational dashboards.
-- 🔄 Power Query (ETL) - Performed advanced data transformation, including merging warehouse locations and normalizing SKU-level inventory data.
-- 🧠 DAX (Data Analysis Expressions) - Developed custom business logic for Inventory Turnover Ratio, Stock-to-Sales Ratio, and Total Fulfillment Lead Time.
-- 🔗 Data Modeling – Established a Star Schema by creating relationships between Sales, Inventory, and Store dimension tables for efficient analysis.
-- 📁 File Format – .pbix (Project Development) and .png (Performance Preview).
-
-## 📂 Data Source
-This project utilizes a comprehensive Supply Chain dataset encompassing Warehouse Logistics, Inventory Stock Levels, and Regional Demand. The data simulates a real-world operational environment, allowing for deep-dive analysis into supply-demand gaps and supplier reliability metrics.
-
+- 🔄 Power Query (ETL) – Performed advanced data transformation, including merging warehouse locations and normalizing SKU-level inventory data.
+- 🧠 DAX (Data Analysis Expressions) – Developed custom business logic for Inventory Turnover Ratio, Stock-to-Sales Ratio, and Total Fulfillment Lead Time.
+- 🔗 Data Modeling – Established a star schema by creating relationships between Sales, Inventory, and Store dimension tables for efficient analysis.
+- 📁 File Format – .pbix (project development) and .png (performance preview).
+  
 ## 🚀 Features 
+
 - Business Problem
 - Goal of the Dashboard
 - Walkthrough of Key Visuals
@@ -26,7 +30,7 @@ This project utilizes a comprehensive Supply Chain dataset encompassing Warehous
 
 ###🔸The Business Problem:
 
-Supply Chain operations often suffer from inventory imbalances—where some warehouses are overstocked with slow-moving items, while others face critical stockouts of high-demand products. The core challenge for this project was to analyze logistical data to identify these supply-demand gaps and optimize the flow of goods to reduce carrying costs and improve fulfillment rates.
+Supply chain operations often suffer from inventory imbalances—some warehouses are overstocked with slow-moving items, while others face critical stockouts of high-demand products. The core challenge for this project was to analyze logistics data to identify these supply-demand gaps and optimize the flow of goods to reduce carrying costs and improve fulfillment rates.
 
 ---
 
@@ -40,7 +44,7 @@ The objective was to build an interactive analytical tool that:
 
 • Regional Benchmarking: Analyzes regional and store-wise performance to pinpoint logistics bottlenecks.
 
-• Trend Forecasting: Identifies seasonal sales trends to help in proactive inventory planning.
+• Trend Forecasting: Identifies seasonal sales trends to support proactive inventory planning.
 
 • Operational Optimization: Provides actionable insights to streamline the end-to-end supply chain lifecycle.
 
@@ -48,61 +52,40 @@ The objective was to build an interactive analytical tool that:
 
 ###🔸 Walkthrough of Key Visuals:
 
-• Core Supply Chain KPIs (Top Section):
+• Core Supply Chain KPIs (Top Section): Displays high-level metrics including Total Sales, Inventory Value, and real-time Stock Availability.
+  *Insight: Helps managers quickly assess current liquidity and stock health.*
 
-•Displays high-level metrics including Total Sales, Inventory Value, and Real-time Stock Availability.
+• Product Portfolio Distribution (Donut Chart): Visualizes the contribution of different product categories to total revenue.
+  *Purpose: Identifies which product lines drive the most value and which are underperforming.*
 
-• Insight: Helps managers quickly assess the current liquidity and stock health.
+• YOY Growth Analysis (Bar Chart): Compares year-over-year growth to highlight long-term trends and sudden performance drops.
+  *Utility: Essential for identifying whether supply chain adjustments are yielding positive growth.*l
 
-•Product Portfolio Distribution (Donut Chart):
+• Geographic Demand Distribution (Bar Chart): Compares sales across major regions (West, South, East, etc.).
+  *Insight: Helps in regional warehouse allocation based on localized demand.*
 
-• Visualizes the contribution of different product categories to the total revenue.
+• Temporal Sales Trends (Line Chart): Tracks monthly fluctuations to identify seasonality and peak demand periods.
 
-• Purpose: Identifies which product lines are driving the most value and which are underperforming.
+• Top Performing States & Stores (Area/Bar Charts): Identifies the top revenue-generating nodes in the distribution network.
+  *Purpose: Enables strategic store-level inventory replenishment.*
 
-• YOY Growth Analysis (Bar Chart):
+• Time-Series Performance (YTD / QTD / MTD): Provides dynamic benchmarking for Year-to-Date, Quarter-to-Date, and Month-to-Date performance.
 
-• Compares year-over-year growth to highlight long-term trends and sudden performance drops.
-
-• Utility: Essential for identifying whether supply chain adjustments are yielding positive growth.
-
-• Geographic Demand Distribution (Bar Chart):
-
-• Compares sales across major regions (West, South, East, etc.).
-
-• Insight: Helps in regional warehouse allocation based on localized demand.
-
-• Temporal Sales Trends (Line Chart):
-
-• Tracks monthly fluctuations to identify Seasonality and peak demand periods.
-
-• Top Performing States & Stores (Area/Bar Charts):
-
-• Identifies top revenue-generating nodes in the distribution network.
-
-• Purpose: Allows for strategic store-level inventory replenishment.
-
-• Time-Series Performance (YTD / QTD / MTD):
-
-• Provides dynamic benchmarking for Year-to-Date, Quarter-to-Date, and Month-to-Date performance.
-
-• Dynamic Drill-downs (Filters & Slicers):
-
-• Interactive slicers for Year, Region, and Payment Method to allow for granular root-cause analysis.
+• Dynamic Drill-Downs (Filters & Slicers): Interactive slicers for Year, Region, and Payment Method enable granular root-cause analysis.
 
 ---
 
 ###🔸 Business Impact & Insights:
 
-• Inventory Optimization: Helps in balancing stock levels—reducing the cost of carrying overstock while preventing revenue loss from stockouts.
+• Inventory Optimization: Balances stock levels—reducing overstock carrying costs while preventing revenue loss from stockouts.
 
-• Strategic Regional Growth: Pinpoints high-growth regions and stores, allowing for better resource allocation and targeted logistics planning.
+• Strategic Regional Growth: Pinpoints high-growth regions and stores, enabling better resource allocation and targeted logistics planning.
 
-• Proactive Demand Planning: Identifies seasonal sales peaks and trends, enabling the business to move from reactive to proactive inventory replenishment.
+• Proactive Demand Planning: Identifies seasonal sales peaks and trends, shifting the business from reactive to proactive inventory replenishment.
 
 • Operational Cost Reduction: Minimizes waste by identifying slow-moving SKUs (Stock Keeping Units) and optimizing warehouse storage efficiency.
 
-• Data-Driven Leadership: Empowers stakeholders with real-time, actionable insights to replace gut-feeling with fact-based decision-making.
+• Data-Driven Leadership: Empowers stakeholders with real-time, actionable insights, replacing gut-feeling decisions with fact-based ones.
 
 ## 📸 Dashboard Preview
 ![Supply Chain Management Dashboard Preview](https://github.com/kaif2011/Supply-Chain-Management-Dashboard/blob/main/Supply%20Chain%20Management.png)
