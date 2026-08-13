@@ -59,7 +59,7 @@ The objective was to build an interactive analytical tool that:
   *Purpose: Identifies which product lines drive the most value and which are underperforming.*
 
 • YOY Growth Analysis (Bar Chart): Compares year-over-year growth to highlight long-term trends and sudden performance drops.
-  *Utility: Essential for identifying whether supply chain adjustments are yielding positive growth.*l
+  *Utility: Essential for identifying whether supply chain adjustments are yielding positive growth.*
 
 • Geographic Demand Distribution (Bar Chart): Compares sales across major regions (West, South, East, etc.).
   *Insight: Helps in regional warehouse allocation based on localized demand.*
